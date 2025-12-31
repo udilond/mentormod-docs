@@ -1,4 +1,4 @@
-# MentorMod — Admin Guide (MVP)
+# MentorMod - Admin Guide (MVP)
 
 MentorMod moderates your Discord server by guiding users to fix violations before enforcing rules.
 
@@ -36,4 +36,5 @@ Violations are removed right away, without a warning-first flow.
 
 ## 6. Finish
 You’ll receive a private confirmation showing the selected template and enforcement mode.  
+
 Run `/setup` anytime to change settings.
